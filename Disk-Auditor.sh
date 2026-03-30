@@ -4,7 +4,6 @@ echo ""
 #!/bin/bash
 # ==============================================================
 # Script 3 (Modified): Disk and Permission Auditor (Python)
-# Author: Rahul G | Course: Open Source Software
 # Purpose: Audit system directories + Python configuration/setup
 # ==============================================================
 
